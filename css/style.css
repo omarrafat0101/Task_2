@@ -20,6 +20,9 @@ body{
     padding-top:15%;
     margin:0;
 }
+.opacity p{
+    margin-bottom: 30px;
+}
 .buyTickets{
     text-decoration: none;
     color:#e6cec5;
