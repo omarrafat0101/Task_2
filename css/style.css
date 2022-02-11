@@ -1,0 +1,39 @@
+body{
+    margin:0%;
+}
+.header{
+    background-image: url("https://babyloncitytours.com/wp-content/uploads/2017/12/Guided-Amsterdam-Tour-Van-Gogh-Museum-Tour.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:600px;
+}
+.opacity{
+    height:100%;
+    background-color: rgba(0, 0, 0, 0.507);
+    text-align: center;
+    color:white;
+    font-weight: bold;
+    margin:0;
+}
+.opacity h3{
+    padding-top:15%;
+    margin:0;
+}
+.buyTickets{
+    text-decoration: none;
+    color:#e6cec5;
+    background-color:#634b2e;
+    padding:7px 15px;
+    border-radius: 20px;
+    border: 1px solid black;
+}
+.contactUs{
+    margin-left: 15px;
+    text-decoration: none;
+    color:#e6cec5;
+    background-color:#254344;
+    padding: 7px 15px;
+    border-radius: 20px;
+    border: 1px solid black;
+}
